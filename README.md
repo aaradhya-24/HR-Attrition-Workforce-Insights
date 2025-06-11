@@ -1,4 +1,4 @@
-# HR-Attrition-Workforce-Insight
+# HR-Attrition-Workforce-Insights
 
 ## 📊 Project Overview
 
