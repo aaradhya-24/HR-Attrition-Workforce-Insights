@@ -39,7 +39,6 @@ https://github.com/aaradhya-24/HR-Attrition-Workforce-Insights/blob/main/HR%20At
 - Built KPIs using Pivot Tables and Calculated Fields
 - Designed an interactive dashboard with slicers and charts
 
-  ---
 
   ## 📎 Tags
 
