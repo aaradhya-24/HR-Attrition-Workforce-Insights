@@ -24,9 +24,19 @@ This interactive HR analytics dashboard was built in Microsoft Excel using pivot
 Click here to view/download:
 https://github.com/aaradhya-24/HR-Attrition-Workforce-Insights/blob/main/HR%20Attrition%20and%20Workforce%20Insights%20Dashboard.xlsx
 
+## 💡 Key Insights
 
-
+- 🔹 The overall attrition rate is **16.01%**, with the **Sales department** having the highest attrition.
+- 🔹 **R&D employees** show the **highest average performance score**.
+- 🔹 **HR department** has the best **work-life balance** rating (2.92).
+- 🔹 **Gender distribution**: 60% Male, 40% Female.
+- 🔹 Average employee tenure is **7 years**, indicating a moderately stable workforce.
+--- 
 ## 📚 What I Learned
 - Cleaned and structured HR data for analysis
 - Built KPIs using Pivot Tables and Calculated Fields
 - Designed an interactive dashboard with slicers and charts
+
+  ## 📎 Tags
+
+`#ExcelDashboard` `#HRAnalytics` `#AttritionAnalysis` `#WorkforceInsights` `#ExcelProject`
